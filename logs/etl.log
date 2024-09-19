@@ -1,0 +1,24 @@
+2024-09-19 17:42:23,615 Callback Server Starting
+2024-09-19 17:42:23,616 Socket listening on ('127.0.0.1', 57945)
+2024-09-19 17:42:24,676 Python Server ready to receive messages
+2024-09-19 17:42:24,676 Received command c on object id p0
+2024-09-19 17:42:24,678 Starting batch 0
+2024-09-19 17:42:31,941 Row count actual: 7334, expected:7346
+2024-09-19 17:42:31,941 Actual and expected row count don't match
+2024-09-19 17:42:32,085 No NULL values in column 'price'
+2024-09-19 17:42:32,209 No NULL values in column 'minimum_nights'
+2024-09-19 17:42:32,358 NULL values found in column 'availability_365': 9 records
+2024-09-19 17:42:32,358 Data quality validation is succesful
+2024-09-19 17:42:32,358 Batch ID 0 processed successfully
+2024-09-19 17:55:30,996 Callback Server Starting
+2024-09-19 17:55:30,996 Socket listening on ('127.0.0.1', 58075)
+2024-09-19 17:55:32,102 Python Server ready to receive messages
+2024-09-19 17:55:32,103 Received command c on object id p0
+2024-09-19 17:55:32,105 Starting batch 0
+2024-09-19 17:55:40,088 Row count actual: 7334, expected:7346
+2024-09-19 17:55:40,090 Actual and expected row count don't match
+2024-09-19 17:55:40,282 No NULL values in column 'price'
+2024-09-19 17:55:40,485 No NULL values in column 'minimum_nights'
+2024-09-19 17:55:40,665 NULL values found in column 'availability_365': 9 records
+2024-09-19 17:55:40,665 Data quality validation is succesful
+2024-09-19 17:55:40,665 Batch ID 0 processed successfully
