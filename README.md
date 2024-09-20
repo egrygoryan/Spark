@@ -24,5 +24,5 @@
 1. Task is written poorly, it has controversial points in merge part, verification part, sql part.
 2. There are a lot of restrictions with writeStream. 
 3. Nothing mentioned about using writeStream in the task at all.
-4. If you are utilising readStream it can be treated as static batch, it should be used inside writeStream.
+4. If you are utilising readStream it can't be treated as static batch, it should be used inside writeStream.
 5. You can't use just simple session in sql queries within stream.
